@@ -1,0 +1,26 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ProMotion (2.5.0)
+      methadone (~> 1.7)
+      motion_print (~> 1.0)
+    dbt (1.1.5)
+    methadone (1.9.2)
+      bundler
+    motion-kit (0.18.0)
+      dbt (~> 1.1.5)
+    motion_print (1.2.0)
+    rake (10.4.2)
+    ruby_motion_query (1.7.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ProMotion
+  motion-kit
+  rake
+  ruby_motion_query
+
+BUNDLED WITH
+   1.10.5
